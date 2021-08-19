@@ -1,5 +1,5 @@
 import Icons from '../Component/Icons';
-import { useState, useEffect } from 'react';
+
 
 const Product = () => {
 
